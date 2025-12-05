@@ -1,0 +1,35 @@
+{
+  "public": {
+    "default": {
+      "commerce-core-endpoint": "https://na1-sandbox.api.commerce.adobe.com/3MUcmhYP4d2Psrp8X5SoMx/graphql",
+      "commerce-endpoint": "https://na1-sandbox.api.commerce.adobe.com/3MUcmhYP4d2Psrp8X5SoMx/graphql",
+      "headers": {
+        "cs": {
+          "AC-Environment-Id": "3MUcmhYP4d2Psrp8X5SoMx",
+          "AC-View-ID": "babef47f-e4f3-443d-90b8-ef5c2d0de6bb"
+        }
+      },
+      "commerce-assets-enabled": false,
+      "analytics": {
+        "base-currency-code": "YOUR_BASE_CURRENCY_CODE",
+        "environment": "Testing",
+        "environment-id": "3MUcmhYP4d2Psrp8X5SoMx",
+        "store-code": "STORE_CODE",
+        "store-id": "YOUR_STORE_ID",
+        "store-name": "YOUR_STORE_NAME",
+        "store-url": "YOUR_STORE_URL",
+        "store-view-code": "YOUR_AC-Source-Locale_HEADER_VALUE",
+        "store-view-id": "YOUR_STORE_VIEW_ID",
+        "store-view-name": "YOUR_STORE_VIEW_NAME",
+        "website-code": "WEBSITE_CODE",
+        "website-id": "YOUR_WEBSITE_ID",
+        "website-name": "YOUR_WEBSITE_NAME"
+      },
+      "plugins": {
+        "picker": {
+          "rootCategory": "YOUR_ROOT_CATEGORY_ID"
+        }
+      }
+    }
+  }
+}

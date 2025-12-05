@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/decade-fr/decade-sandbox-optimizer/
+    type: markup
+
+folders:
+  /products/: /products/default
